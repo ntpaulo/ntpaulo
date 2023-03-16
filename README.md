@@ -1,4 +1,4 @@
-### Olá, tudo bem? Eu sou o Paulo, seja bem-vindo 👋😄
+### Olá, tudo bem? Eu sou o Paulo, seja bem-vindo  👋😄
 
 <div>
 <a href= "https://github.com/ntpaulo"/>
