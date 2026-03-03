@@ -2,8 +2,8 @@
 
 <div>
 <a href= "https://github.com/ntpaulo"/>
-<img align="center" height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=ntpaulo&show_icons=true&theme=gruvbox" style="max-width: 100%;"/>
-<img align="center" height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntpaulo&layout=compact&langs_count=16&theme=gruvbox" style="max-width: 100%;"/>
+<img align="center" height="180em" width="49%" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntpaulo)]" style="max-width: 100%;"/>
+<img align="center" height="180em" width="49%" src="(https://github.com/ntpaulo/github-readme-stats)" style="max-width: 100%;"/>
 
 </div>
 
