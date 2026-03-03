@@ -2,8 +2,6 @@
 
 <div>
 <a href= "https://github.com/ntpaulo"/>
-<img align="center" height="180em" width="49%" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" style="max-width: 100%;"/>
-<img align="center" height="180em" width="49%" src="(https://github.com/ntpaulo/github-readme-stats)" style="max-width: 100%;"/>
 
 </div>
 
